@@ -1,10 +1,16 @@
-Tinkering with Agentic AI.
+# Tinkering with Agentic AI.
 
 Some useful commands.
 
-run ollama> ollama
-
+### Run ollama
+```code
+ollama
+```
+### Install jupyterlab
+```code
 pip install jupyterlab
-
-#start jupyter
+```
+### Start jupyter
+```code
 jupyter lab
+```
