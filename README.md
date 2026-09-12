@@ -15,7 +15,6 @@ pip install jupyterlab
 jupyter lab
 ```
 
-````markdown
 # 🇳🇵 Nepali News Scraping Agent
 
 A **local, zero-cloud, zero-API-key** pipeline that scrapes top Devanagari-Nepali news
@@ -171,4 +170,3 @@ project/
 | Output       | HTML5 + CSS (Devanagari fonts)        |
 | Notebook     | Jupyter                               |
 | Runtime      | Any OS with Python 3.9+               |
-````
