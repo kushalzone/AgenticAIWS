@@ -1,6 +1,13 @@
-# Tinkering with Agentic AI.
+# 🇳🇵 Nepali News Scraping Agent
 
-Some useful commands.
+A **local, zero-cloud, zero-API-key** pipeline that scrapes top Devanagari-Nepali news
+headlines, generates an AI summary with a local LLM, and outputs a styled
+hyperlinked HTML page.
+
+Runs entirely on your machine. No API keys. No token costs. No data leaves
+localhost.
+
+## Some useful commands.
 
 ### Run ollama
 ```code
@@ -15,14 +22,6 @@ pip install jupyterlab
 jupyter lab
 ```
 
-# 🇳🇵 Nepali News Scraping Agent
-
-A **local, zero-cloud, zero-API-key** pipeline that scrapes top Devanagari-Nepali news
-headlines, generates an AI summary with a local LLM, and outputs a styled
-hyperlinked HTML page.
-
-Runs entirely on your machine. No API keys. No token costs. No data leaves
-localhost.
 
 ---
 
